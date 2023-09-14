@@ -10,7 +10,7 @@
   "dependencies": {
     "bootstrap": "^4.6.0",
     "bcrypt": "^5.0.1",
-    "@babel/runtime": "^7.17.9",
+    "@babel/runtime": "^7.22.11",
     "meteor-node-stubs": "^1.2.1",
     "jquery": "^3.6.0"
   },
